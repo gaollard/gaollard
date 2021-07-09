@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Hackfun's github stats](https://github-readme-stats.vercel.app/api?username=gaollard&theme=gotham&show_icons=true)](https://github.com/gaollard/github-readme-stats)
+
+<a href="https://github.com/gaollard">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=gotham&username=gaollard&layout=compact" />
+</a>
+
+
 <!--
 **gaollard/gaollard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
