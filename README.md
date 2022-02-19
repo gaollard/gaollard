@@ -1,4 +1,4 @@
-### hi there, this is from gaollard 👋
+### Hi there, this is from gaollard 👋
 
 - 🔭 Interested in full stack. Focus on FE.
 - 🌱 Currently learning Android, IOS and NodeJS.
