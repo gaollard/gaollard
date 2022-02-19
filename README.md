@@ -2,7 +2,7 @@
 
 - 🔭 Interested in full stack. Focus on FE.
 - 🌱 Currently learning Android, IOS and NodeJS.
-- 📚 [Reading List](https://github.com/gaollard/gaollard/blob/main/reading-list.md).
+- 📚 [My Reading List](https://github.com/gaollard/gaollard/blob/main/reading-list.md).
 - 💻 With 6 years' development working experience.
 
 [![gaollard's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaollard&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/gaollard/github-readme-stats)
