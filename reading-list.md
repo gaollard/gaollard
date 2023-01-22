@@ -1,4 +1,5 @@
 - [x] 📚《Elasticsearch全面解析与实践》张文亮 https://weread.qq.com/web/reader/52332a607280c170523409ekc81322c012c81e728d9d180
 - [ ] 📚《深入浅出 MySQL: 数据库开发、优化与管理》https://weread.qq.com/web/reader/f3e327e05b25c1f3e6d5ee2kc81322c012c81e728d9d180
 - [ ] 📚《深入浅出 RxJS》程墨 https://weread.qq.com/web/reader/cfd321e05e4002cfd1a1ec2kc81322c012c81e728d9d180
+- [ ] 📚《C++程序设计教程（第2版）》https://weread.qq.com/web/bookDetail/8c83265072327b258c888fa
 - [ ] 📚《C++ Primer（中文版）（第5版）》https://weread.qq.com/web/reader/ff732fe072021a24ff7bb24
