@@ -22,4 +22,4 @@ with seven years of development experience in web development, now focus on full
 **nodejs**
 
 - [nodejs notes](http://nodejs.airtlab.com) nodejs 学习笔记
-- [nodejs gateway](https://github.com/gaollard/nodejs-gateway) 使用 nodejs 写一个网关网关工具
+- [nodejs gateway](https://github.com/gaollard/nodejs-gateway) 使用 nodejs 写一个配置工具，提供可视化界面
