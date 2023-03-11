@@ -1,3 +1,4 @@
+- [x] 《深入浅出 Node.js》https://weread.qq.com/web/bookDetail/d1b32290718ff65fd1befcc
 - [x] 📚《Elasticsearch全面解析与实践》张文亮 https://weread.qq.com/web/reader/52332a607280c170523409ekc81322c012c81e728d9d180
 - [ ] 📚《Linux 程序设计》Neil Matthew Richard Stones https://weread.qq.com/web/bookDetail/0cf329b0718ff5f10cf1c9f
 - [ ] 📚《深入浅出 MySQL: 数据库开发、优化与管理》https://weread.qq.com/web/reader/f3e327e05b25c1f3e6d5ee2kc81322c012c81e728d9d180
