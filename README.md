@@ -21,7 +21,7 @@ with seven years of development experience in web development, now focus on full
 
 **小工具**
 
-- [从 swagger json schema 文件生成 axios 请求配置文件](https://github.com/wiiai/swagger-doc-to-axios)
+- [命令行工具：swagger json schema 生成 axios 请求配置文件](https://github.com/wiiai/swagger-doc-to-axios)
 
 **nodejs**
 
