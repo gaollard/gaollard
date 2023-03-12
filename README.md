@@ -19,6 +19,10 @@ with seven years of development experience in web development, now focus on full
 
 ## some writes
 
+**小工具**
+
+- [从 swagger json schema 文件生成 axios 请求配置文件](https://github.com/wiiai/swagger-doc-to-axios)
+
 **nodejs**
 
 - [nodejs notes](http://nodejs.airtlab.com) nodejs 学习笔记
