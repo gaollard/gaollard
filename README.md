@@ -7,9 +7,9 @@ with seven years of development experience in web development, now focus on full
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 ![wechat](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E4%B8%93%E5%AE%B6-3b82f6?style=flat-square&logo=wechat)
 
-- 🔭 Interested in full stack.
-- 🌱 Currently learning NodeJS and C++.
-- 📚 [My Reading List](https://github.com/gaollard/gaollard/blob/main/reading-list.md).
+- 🔭 Interested in full stack
+- 🌱 Currently learning NodeJS and C++
+- 📚 [My Reading List](https://github.com/gaollard/gaollard/blob/main/reading-list.md)
 
 
 [![gaollard's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaollard&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/gaollard/github-readme-stats)
