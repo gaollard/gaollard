@@ -23,6 +23,7 @@ with seven years of development experience in web development, now focus on full
 
 - [命令行工具：sjta](https://github.com/wiiai/swagger-doc-to-axios) swagger json schema 生成 axios 请求配置文件
 - [vscode 插件: data-to-interface](https://github.com/Webang/vscode-plugin-data-to-interface) 提供 data 到 interface 的转换指令
+- [dep-inspector](https://github.com/gaollard/dep-inspector) 项目的依赖图生成
 
 **nodejs**
 
